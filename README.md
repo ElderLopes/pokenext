@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# PokeNext - Uma Aplicação Web com Pokémon
 
-## Getting Started
+![PokeNext Logo](/images/pokeball.png)
 
-First, run the development server:
+PokeNext é uma aplicação web que utiliza a API PokeAPI para mostrar informações sobre os Pokémon. Você pode listar todos os Pokémon disponíveis e obter detalhes sobre um Pokémon específico.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Funcionalidades
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Lista de Pokémon com nomes e imagens.
+- Detalhes individuais de cada Pokémon, incluindo tipo, número, altura e peso.
+- Navegação fácil entre a lista e os detalhes dos Pokémon.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Tecnologias Utilizadas
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- [Next.js](https://nextjs.org/)
+- [React](https://reactjs.org/)
+- [PokeAPI](https://pokeapi.co/)
+- [CSS Modules](https://github.com/css-modules/css-modules)
 
-## Learn More
+Além disso, este projeto utiliza várias outras bibliotecas e ferramentas para funcionalidades específicas, você pode encontrar a lista completa no arquivo `package.json`.
 
-To learn more about Next.js, take a look at the following resources:
+## Demonstração
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Veja a aplicação em ação [aqui](https://seu-link-da-aplicacao).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Capturas de Tela
 
-## Deploy on Vercel
+![Lista de Pokémon](/images/pokenext.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Detalhes de Pokémon](/images/pokenext1.png)
