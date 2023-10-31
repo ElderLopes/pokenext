@@ -20,9 +20,6 @@ PokeNext é uma aplicação web que utiliza a API PokeAPI para mostrar informaç
 
 Além disso, este projeto utiliza várias outras bibliotecas e ferramentas para funcionalidades específicas, você pode encontrar a lista completa no arquivo `package.json`.
 
-## Demonstração
-
-Veja a aplicação em ação [aqui](https://seu-link-da-aplicacao).
 
 ## Capturas de Tela
 
